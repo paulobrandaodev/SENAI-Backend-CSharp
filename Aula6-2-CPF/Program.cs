@@ -25,6 +25,10 @@ namespace Aula6_2_CPF
 
             string digito_v1    = "";
             string digito_v2    = "";
+            
+            cpfUsuario = cpfUsuario.Replace(" ", "");
+            cpfUsuario = cpfUsuario.Replace("-", "");
+            cpfUsuario = cpfUsuario.Replace(".", "");
 
             cpfCalculo = cpfUsuario.Substring(0, 9);
 
