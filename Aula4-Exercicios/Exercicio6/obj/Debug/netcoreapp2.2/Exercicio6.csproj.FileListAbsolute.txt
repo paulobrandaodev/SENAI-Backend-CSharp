@@ -1,0 +1,11 @@
+E:\Cursos\Senai\SENAI-Backend-CSharp\Aula4-Exercicios\Exercicio6\bin\Debug\netcoreapp2.2\Exercicio6.deps.json
+E:\Cursos\Senai\SENAI-Backend-CSharp\Aula4-Exercicios\Exercicio6\bin\Debug\netcoreapp2.2\Exercicio6.runtimeconfig.json
+E:\Cursos\Senai\SENAI-Backend-CSharp\Aula4-Exercicios\Exercicio6\bin\Debug\netcoreapp2.2\Exercicio6.runtimeconfig.dev.json
+E:\Cursos\Senai\SENAI-Backend-CSharp\Aula4-Exercicios\Exercicio6\bin\Debug\netcoreapp2.2\Exercicio6.dll
+E:\Cursos\Senai\SENAI-Backend-CSharp\Aula4-Exercicios\Exercicio6\bin\Debug\netcoreapp2.2\Exercicio6.pdb
+E:\Cursos\Senai\SENAI-Backend-CSharp\Aula4-Exercicios\Exercicio6\obj\Debug\netcoreapp2.2\Exercicio6.csprojAssemblyReference.cache
+E:\Cursos\Senai\SENAI-Backend-CSharp\Aula4-Exercicios\Exercicio6\obj\Debug\netcoreapp2.2\Exercicio6.csproj.CoreCompileInputs.cache
+E:\Cursos\Senai\SENAI-Backend-CSharp\Aula4-Exercicios\Exercicio6\obj\Debug\netcoreapp2.2\Exercicio6.AssemblyInfoInputs.cache
+E:\Cursos\Senai\SENAI-Backend-CSharp\Aula4-Exercicios\Exercicio6\obj\Debug\netcoreapp2.2\Exercicio6.AssemblyInfo.cs
+E:\Cursos\Senai\SENAI-Backend-CSharp\Aula4-Exercicios\Exercicio6\obj\Debug\netcoreapp2.2\Exercicio6.dll
+E:\Cursos\Senai\SENAI-Backend-CSharp\Aula4-Exercicios\Exercicio6\obj\Debug\netcoreapp2.2\Exercicio6.pdb
