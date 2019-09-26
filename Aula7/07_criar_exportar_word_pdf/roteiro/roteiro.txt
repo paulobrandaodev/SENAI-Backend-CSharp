@@ -1,0 +1,56 @@
+- mostrar a biblioteca Spire, suas opções e seu propósito. Clicar em 
+Tutorials da Spire.Doc
+   através de linha de comando, é possível criar e manipular arquivos 
+Word de maneira rápida sem o Pacote Office ou qualquer outro semelhante 
+instalado
+
+- mostrar os comandos pela documentação (criação, escrita e salvar)
+   a versão gratuita possui limite de 500 parágrafos e 25 tabelas e 
+para conversão de arquivos em PDF, por exemplo, apenas as 3 primeiras
+páginas são exportadas
+
+- criar repositório no github, clonar e abrir no Visual Studio Code:
+	- aula7_manipulacao_arquivos_word
+
+- abrir o terminal do Visual Studio Code (ctrl + ')
+
+- criar um novo projeto de console, executando o comando
+   dotnet new console
+
+- instalar a extensão NuGet Package Manager e clicar em reload
+
+- executar o comando NuGet Package Manager : Add Package
+
+- instalar a biblioteca Spire.Doc pelo NuGet
+
+- criar uma nova pasta exemplo
+
+- dentro da pasta exemplo, criar quatro novas pastas:
+   doc, html, img e pdf
+
+- copiar o arquivo logo_csharp.png para a pasta img
+
+- exemplificar criando um documento que tenha duas seções
+
+- criar uma seção com:
+	- um título (estilizado)
+	- um parágrafo com um texto
+	- outro parágrafo com outro texto
+	- um parágrafo com uma imagem (logo c#)
+
+- criar outra seção (página) com:
+	- um parágrafo em uma nova seção, mostrando concatenação
+	- um último parágrafo para contextualizar
+	- uma tabela de exemplo
+
+- exercício 1:
+	- título centralizado
+	- um parágrafo com várias estilizações
+	- uma tabela com quatro colunas e três linhas
+	- uma imagem centralizada
+	- um parágrafo centralizado com a descrição da imagem
+	- exportar para .pdf
+
+- desafios:
+	- exportar o exercício 1 para uma página em .html
+	- um parágrafo com estilos diferentes na mesma frase

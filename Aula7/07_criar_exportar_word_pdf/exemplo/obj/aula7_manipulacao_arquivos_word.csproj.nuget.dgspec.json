@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Works\\Cursos\\senai_desenvolvimento\\2s2019\\senai_2s2019_CodeXP\\aulas\\07_criar_exportar_word_pdf\\exemplo\\aula7_manipulacao_arquivos_word.csproj": {}
+  },
+  "projects": {
+    "E:\\Works\\Cursos\\senai_desenvolvimento\\2s2019\\senai_2s2019_CodeXP\\aulas\\07_criar_exportar_word_pdf\\exemplo\\aula7_manipulacao_arquivos_word.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Works\\Cursos\\senai_desenvolvimento\\2s2019\\senai_2s2019_CodeXP\\aulas\\07_criar_exportar_word_pdf\\exemplo\\aula7_manipulacao_arquivos_word.csproj",
+        "projectName": "aula7_manipulacao_arquivos_word",
+        "projectPath": "E:\\Works\\Cursos\\senai_desenvolvimento\\2s2019\\senai_2s2019_CodeXP\\aulas\\07_criar_exportar_word_pdf\\exemplo\\aula7_manipulacao_arquivos_word.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "E:\\Works\\Cursos\\senai_desenvolvimento\\2s2019\\senai_2s2019_CodeXP\\aulas\\07_criar_exportar_word_pdf\\exemplo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Spire.Doc": {
+              "target": "Package",
+              "version": "[7.9.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\39893838843\\Downloads\\senai_2s2019_CodeXP\\aulas\\07_criar_exportar_word_pdf\\exercicio\\resolvido\\resolvido.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\39893838843\\Downloads\\senai_2s2019_CodeXP\\aulas\\07_criar_exportar_word_pdf\\exercicio\\resolvido\\resolvido.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\39893838843\\Downloads\\senai_2s2019_CodeXP\\aulas\\07_criar_exportar_word_pdf\\exercicio\\resolvido\\resolvido.csproj",
+        "projectName": "resolvido",
+        "projectPath": "C:\\Users\\39893838843\\Downloads\\senai_2s2019_CodeXP\\aulas\\07_criar_exportar_word_pdf\\exercicio\\resolvido\\resolvido.csproj",
+        "packagesPath": "C:\\Users\\39893838843\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\39893838843\\Downloads\\senai_2s2019_CodeXP\\aulas\\07_criar_exportar_word_pdf\\exercicio\\resolvido\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\39893838843\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Spire.Doc": {
+              "target": "Package",
+              "version": "[7.9.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
