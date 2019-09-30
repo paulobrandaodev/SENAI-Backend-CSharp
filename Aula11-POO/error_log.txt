@@ -1,0 +1,23 @@
+segunda-feira, 30 de setembro de 2019
+11:53
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Aula11_POO.Controllers.ProdutosController.CadastrarProduto() in C:\Users\paulo.brandao\Desktop\SENAI-Backend-CSharp\Aula11-POO\Controllers\ProdutosController.cs:line 27
+
+segunda-feira, 30 de setembro de 2019
+11:58
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(ReadOnlySpan`1 str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(ReadOnlySpan`1 s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Aula11_POO.Controllers.ProdutosController.CadastrarProduto() in C:\Users\paulo.brandao\Desktop\SENAI-Backend-CSharp\Aula11-POO\Controllers\ProdutosController.cs:line 15
+
+segunda-feira, 30 de setembro de 2019
+12:13
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Aula11_POO.Controllers.ProdutosController.CadastrarProduto() in C:\Users\paulo.brandao\Desktop\SENAI-Backend-CSharp\Aula11-POO\Controllers\ProdutosController.cs:line 27
+
+segunda-feira, 30 de setembro de 2019
+12:18
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Aula11_POO.Controllers.ProdutosController.CadastrarProduto() in C:\Users\paulo.brandao\Desktop\SENAI-Backend-CSharp\Aula11-POO\Controllers\ProdutosController.cs:line 15
+
