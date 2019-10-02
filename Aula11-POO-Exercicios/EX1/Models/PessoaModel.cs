@@ -9,5 +9,7 @@ namespace EX1.Models
         public double Peso { get; set; }
 
         public double Altura { get; set; }
+
+        private string Token { get; set; }
     }
 }

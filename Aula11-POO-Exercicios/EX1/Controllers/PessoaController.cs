@@ -1,16 +1,22 @@
 using System;
+using EX1.Models;
 
 namespace EX1.Controllers
 {
     public class PessoaController
     {
-        
-        public void Cadastrar(){
 
+        PessoaModel pessoa = new PessoaModel();
+        
+        private void Cadastrar(){
+            // SET
+            pessoa.Idade = int.Parse(Console.ReadLine());
+            // GET
+            Console.WriteLine(pessoa.Idade);
         }
 
         public void Exibir(){
-
+        
         }
 
         public string CalcularIMC(double peso, double altura){
@@ -33,6 +39,11 @@ namespace EX1.Controllers
             }
 
             return retorno;
+        }
+
+
+        public void DefinePeso(){
+            Console.WriteLine("Define peso");
         }
 
     }

@@ -1,0 +1,11 @@
+C:\Users\paulo.brandao\Desktop\SENAI-Backend-CSharp\Aula11-POO-Exercicios\EX2\bin\Debug\netcoreapp2.2\EX2.deps.json
+C:\Users\paulo.brandao\Desktop\SENAI-Backend-CSharp\Aula11-POO-Exercicios\EX2\bin\Debug\netcoreapp2.2\EX2.runtimeconfig.json
+C:\Users\paulo.brandao\Desktop\SENAI-Backend-CSharp\Aula11-POO-Exercicios\EX2\bin\Debug\netcoreapp2.2\EX2.runtimeconfig.dev.json
+C:\Users\paulo.brandao\Desktop\SENAI-Backend-CSharp\Aula11-POO-Exercicios\EX2\bin\Debug\netcoreapp2.2\EX2.dll
+C:\Users\paulo.brandao\Desktop\SENAI-Backend-CSharp\Aula11-POO-Exercicios\EX2\bin\Debug\netcoreapp2.2\EX2.pdb
+C:\Users\paulo.brandao\Desktop\SENAI-Backend-CSharp\Aula11-POO-Exercicios\EX2\obj\Debug\netcoreapp2.2\EX2.csprojAssemblyReference.cache
+C:\Users\paulo.brandao\Desktop\SENAI-Backend-CSharp\Aula11-POO-Exercicios\EX2\obj\Debug\netcoreapp2.2\EX2.csproj.CoreCompileInputs.cache
+C:\Users\paulo.brandao\Desktop\SENAI-Backend-CSharp\Aula11-POO-Exercicios\EX2\obj\Debug\netcoreapp2.2\EX2.AssemblyInfoInputs.cache
+C:\Users\paulo.brandao\Desktop\SENAI-Backend-CSharp\Aula11-POO-Exercicios\EX2\obj\Debug\netcoreapp2.2\EX2.AssemblyInfo.cs
+C:\Users\paulo.brandao\Desktop\SENAI-Backend-CSharp\Aula11-POO-Exercicios\EX2\obj\Debug\netcoreapp2.2\EX2.dll
+C:\Users\paulo.brandao\Desktop\SENAI-Backend-CSharp\Aula11-POO-Exercicios\EX2\obj\Debug\netcoreapp2.2\EX2.pdb

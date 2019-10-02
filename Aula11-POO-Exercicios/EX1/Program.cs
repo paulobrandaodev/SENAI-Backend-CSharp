@@ -1,4 +1,5 @@
 ﻿using System;
+using EX1.Controllers;
 
 namespace EX1
 {
@@ -6,7 +7,11 @@ namespace EX1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+            PessoaController ruben = new PessoaController();
+            
+            ruben.DefinePeso();
+                        
         }
     }
 }
